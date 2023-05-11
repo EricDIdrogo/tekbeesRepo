@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb: mongodb://localhost:27017/tekbees_prueba_tecnica
+      #uri: mongodb+srv://<username>:<password>@
+
+      #database: tekbees_prueba_tecnica
+#mongodb://localhost:27017
